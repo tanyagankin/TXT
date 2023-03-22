@@ -1,0 +1,5 @@
+My favorite movie: "Three men and one little lady",
+  Favorite series: "Desperate Housewives",
+  Favorite food: Golubtsi,
+  Favorite season: spring,
+  Country I want to visit: America, England

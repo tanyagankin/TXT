@@ -1,0 +1,9 @@
+SKills to be learned on the course QA:
+1. Proactivity, independence, responsibility,
+2. Teory QA,
+3. Tools: Postman, Charles, Jmeter,
+4. SQL,XML,HTP,JSON,
+5. API testing, 
+6. WEb testing,
+7. Mobile testing,
+8. QA Documentation STD,STP,Bug report
